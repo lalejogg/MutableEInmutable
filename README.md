@@ -1,3 +1,3 @@
-# MutableEInmutable .NET Core
+.NET Core
 
 Mutable e Inmutable in C#
